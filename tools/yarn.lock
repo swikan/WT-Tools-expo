@@ -799,10 +799,10 @@
     nullthrows "^1.1.1"
     structured-headers "^0.4.1"
 
-"@expo/osascript@^2.2.4":
-  version "2.2.4"
-  resolved "https://registry.yarnpkg.com/@expo/osascript/-/osascript-2.2.4.tgz#4414d97f91e29260a9b361529d20875430dc0af5"
-  integrity sha512-Q+Oyj+1pdRiHHpev9YjqfMZzByFH8UhKvSszxa0acTveijjDhQgWrq4e9T/cchBHi0GWZpGczWyiyJkk1wM1dg==
+"@expo/osascript@^2.3.6":
+  version "2.3.7"
+  resolved "https://registry.yarnpkg.com/@expo/osascript/-/osascript-2.3.7.tgz#2d53ef06733593405c83767de7420510736e0fa9"
+  integrity sha512-IClSOXxR0YUFxIriUJVqyYki7lLMIHrrzOaP01yxAL1G8pj2DWV5eW1y5jSzIcIfSCNhtGsshGd1tU/AYup5iQ==
   dependencies:
     "@expo/spawn-async" "^1.7.2"
     exec-async "^2.2.0"
